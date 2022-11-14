@@ -1,4 +1,4 @@
-# What is Python? : snake :
+# What is Python? :snake:
 Python is a programming language, as you may have heard of several others that exist.
 
 But it was developed to be simple, easy to learn and very versatile, that is, you will be able to use this language for different tasks.
